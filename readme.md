@@ -2,4 +2,4 @@
 
 ## he penger
 
--[image](penger.png)
+- ![image](penger.png)
